@@ -1,9 +1,6 @@
 import './App.css';
-<<<<<<< Updated upstream
 import React from 'react';
-=======
 import data from './data';
->>>>>>> Stashed changes
 import Pokedex from './Pokedex';
 import TypeBlock from './TypeBlock';
 
