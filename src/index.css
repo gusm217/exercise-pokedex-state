@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.pokedex {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 10px 10px;
+}
+
+.next-button {
+  min-width: 10vw;
+  min-height: 10vh;
+  background-color: green;
+  color: white;
+  font-size: medium;
+  font-weight: bold;
+  border: 3px solid pink;
+  margin-top: 20px;
+  padding: 20px;
+}
